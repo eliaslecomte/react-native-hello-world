@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.hithere"
+        applicationId "be.eliaslecomte.reactnativehelloworld"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
